@@ -1,5 +1,7 @@
 # github-contribution-calendar
 
+仿 Github 的贡献日历表
+
 ![demo img](./src/assets/img/github-contribution-calendar.png)
 
 ## Project setup
